@@ -1,0 +1,14 @@
+body{
+  Background-color:Lightgrey;
+  text-align:center;
+  border:double 10px black;
+  margin:3%;
+}
+div.name{
+  border:solid 6px;
+  margin:5%
+  
+}
+h3.job-header{
+  border-top:solid 6px black;
+}
