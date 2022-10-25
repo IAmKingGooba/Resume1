@@ -1,9 +1,9 @@
 body{
   Background-color:Lightgrey;
-  text-align:center;
   border:double 10px black;
   margin:3%;
 }
+
 div.name{
   border:solid 6px;
   margin:5%
@@ -11,4 +11,17 @@ div.name{
 }
 h3.job-header{
   border-top:solid 6px black;
+  text-align:center;
+}
+
+p{
+  font-style:italic;
+  text-align:center;
+}
+li{
+  padding-left:3%;
+  
+}
+h1,h2{
+  text-align:center;
 }
