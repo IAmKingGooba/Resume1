@@ -2,6 +2,10 @@ body{
   Background-color:Lightgrey;
   border:double 10px black;
   margin:3%;
+  
+}
+p.job-date{
+  margin-top:-3%;
 }
 
 div.name{
@@ -26,4 +30,11 @@ li{
 }
 h1,h2{
   text-align:center;
+}
+
+h4.sum{
+  border-top:solid 3px black;
+  margin:3%;
+  padding-left:1%;
+  padding-right:1%
 }
